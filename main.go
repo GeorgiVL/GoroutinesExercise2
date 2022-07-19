@@ -28,5 +28,5 @@ func main() {
 	}
 
 	saySomething(&p1)
-
+	fmt.Println("This code was added to github")
 }
